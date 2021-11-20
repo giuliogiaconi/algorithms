@@ -1,4 +1,4 @@
-# Famous algorithms implemented in Python
+# Well-known algorithms implemented in Python
 Python implementation of various famous algorithms.
 * Karatsuba multiplication (`karatsuba_multiplication.py`)
 * Counting the number of inversions performed by the merge sort algorithm (`merge_sort_counting_inversions.py`)
